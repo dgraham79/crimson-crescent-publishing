@@ -5,7 +5,7 @@
   --bg-secondary: #12121e;
   --bg-card: #16162a;
   --crimson: #910000;
-  --crimson-light: #b81a1a;
+  --crimson-light: #d42e2e;
   --text-primary: #e8e4f0;
   --text-secondary: #dcd5e8;
   --text-muted: #c8c0d8;
@@ -67,7 +67,7 @@ nav .logo img {
 nav .logo span {
   font-family: var(--font-display);
   font-size: 14px;
-  color: var(--crimson);
+  color: var(--crimson-light);
   letter-spacing: 2px;
   text-transform: uppercase;
 }
@@ -266,7 +266,7 @@ section:nth-of-type(even) {
   font-size: 16px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: var(--crimson);
+  color: var(--crimson-light);
   margin-bottom: 15px;
 }
 
@@ -301,7 +301,7 @@ footer .publisher-name {
   font-size: 13px;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: var(--crimson);
+  color: var(--crimson-light);
   margin-bottom: 20px;
 }
 
@@ -393,7 +393,7 @@ footer .copyright {
   font-size: 13px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: var(--crimson);
+  color: var(--crimson-light);
 }
 
 /* Responsive */
